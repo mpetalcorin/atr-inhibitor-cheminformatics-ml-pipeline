@@ -109,7 +109,7 @@ This repository produces **prioritised hypotheses**, not confirmed inhibitors. U
 - Bento, A. P., Hersey, A., Félix, E., Landrum, G., Gaulton, A., Atkinson, F., Bellis, L. J., De Veij, M., & Leach, A. R. (2020). An open source chemical structure curation pipeline using RDKit. Journal of Cheminformatics, 12, 51. https://doi.org/10.1186/s13321-020-00456-1
 - Rodríguez-Pérez, R., & Bajorath, J. (2020). Interpretation of machine learning models using Shapley values, application to compound potency and multi-target activity predictions. Journal of Computer-Aided Molecular Design, 34(10), 1013–1026. https://doi.org/10.1007/s10822-020-00314-0
 - Krenn, M., Häse, F., Nigam, A., Friederich, P., & Aspuru-Guzik, A. (2022). SELFIES and the future of molecular string representations. Patterns, 3(10), 100588. https://doi.org/10.1016/j.patter.2022.100588
-- Nakamura, M., Kajiwara, Y., Otsuka, A., & Kimura, H. (2013). LVQ-SMOTE, Learning Vector Quantization based Synthetic Minority Over-sampling Technique for biomedical data. BioData Mining, 6, 16. https://doi.org/10.1186/1756-0381-
+- Nakamura, M., Kajiwara, Y., Otsuka, A., & Kimura, H. (2013). LVQ-SMOTE, Learning Vector Quantization based Synthetic Minority Over-sampling Technique for biomedical data. BioData Mining, 6, 16. https://doi.org/10.1186/1756-0381-6-16
 
 ## License
 MIT; CC BY for documentation
@@ -345,7 +345,7 @@ Ethical considerations mainly relate to:
 - This repository distributes **derived** processed tables; confirm license compatibility for redistribution.
 
 ## 11. Recommended citations 
-- BindingDB, a public database of measured binding affinities. *Nucleic Acids Research*.  
+- BindingDB, a public database of measured binding affinities. *Nucleic Acids Research*. Liu,T., Hwang, L., Burley,S.K., Nitsche,C.I., Southan,C., Walters,W.P., and Gilson,M.K. BindingDB in 2024: a FAIR knowledgebase of protein-small molecule binding data *Nucleic Acids Research* 53:D1633-D1644. 2025.  
 - Bento AP, et al. An open source chemical structure curation pipeline using RDKit. *J Cheminform*. 2020.  
 - Rodríguez-Pérez R, Bajorath J. Interpretation of machine learning models using Shapley values. *J Chem Inf Model*. 2020.
 
