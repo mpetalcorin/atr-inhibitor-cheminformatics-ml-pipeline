@@ -350,7 +350,7 @@ Ethical considerations mainly relate to:
 - Rodríguez-Pérez R, Bajorath J. Interpretation of machine learning models using Shapley values. *J Chem Inf Model*. 2020.
 
 ## 12. Contacts
-**Maintainer:** Mark I.R. Petalcorin 
-**Email:** m.petalcorin@gmail.com  
-**GitHub:** github.com/mpetalcorin
-**Disclaimer:** This dataset supports computational screening and model development. Experimental validation is required before concluding ATR inhibition or suitability for drug development.
+- **Maintainer:** Mark I.R. Petalcorin 
+- **Email:** m.petalcorin@gmail.com  
+- **GitHub:** github.com/mpetalcorin
+- **Disclaimer:** This dataset supports computational screening and model development. Experimental validation is required before concluding ATR inhibition or suitability for drug development.
